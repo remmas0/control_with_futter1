@@ -25,7 +25,7 @@ It’s ready to connect with *ROSBridge* through WebSocket.
 ---
 
 ## 📂 Files
-![Main Flutter logic and WebSocket control](main.dart)
+[Main Flutter logic and WebSocket control](main.dart)
 ---
 
 ## 🧠 Features
